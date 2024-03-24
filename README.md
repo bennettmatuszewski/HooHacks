@@ -1,6 +1,5 @@
 # HooHacks
 HooHacks 2024 Repo
 
-/releases/latest/download/MatchTheMusicWindows.zip
 
-releases/tag/Release
+https://github.com/bennettmatuszewski/HooHacks/releases/latest/download/MatchTheMusicWindows.zip
